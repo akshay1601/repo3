@@ -1,1 +1,2 @@
 file4 and file4 again
+file4
